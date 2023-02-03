@@ -1,7 +1,8 @@
-# autobarrelmanager README
+# Auto Barrel Manager
 
-This is the README for your extension "autobarrelmanager". After writing up a brief description, we recommend including the following sections.
+Create and manage the barrel files of your projects
 
+<!-- 
 ## Features
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
@@ -62,4 +63,4 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
+**Enjoy!** -->
